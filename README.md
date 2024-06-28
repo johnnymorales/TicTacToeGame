@@ -20,7 +20,7 @@ This is a Windows Forms Application of the classic Tic Tac Toe game, built with 
 
 1. Clone the project by downloading it from the download section or using git (command line or powershell):
 
-	git clone (enter url here)
+	git clone https://github.com/johnnymorales/TicTacToeGame.git
 
 2. Open the solution file in Visual Studio.
 1. Open Tic Tac Toe Game dropdown and select Form1.cs. 
