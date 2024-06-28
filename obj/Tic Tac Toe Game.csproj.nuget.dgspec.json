@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Coder-Work\\Tic Tac Toe Game\\Tic Tac Toe Game.csproj": {}
+    "C:\\Coder-Work\\Tic Tac Toe Game\\TicTacToeGame\\Tic Tac Toe Game.csproj": {}
   },
   "projects": {
-    "C:\\Coder-Work\\Tic Tac Toe Game\\Tic Tac Toe Game.csproj": {
+    "C:\\Coder-Work\\Tic Tac Toe Game\\TicTacToeGame\\Tic Tac Toe Game.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Coder-Work\\Tic Tac Toe Game\\Tic Tac Toe Game.csproj",
+        "projectUniqueName": "C:\\Coder-Work\\Tic Tac Toe Game\\TicTacToeGame\\Tic Tac Toe Game.csproj",
         "projectName": "Tic Tac Toe Game",
-        "projectPath": "C:\\Coder-Work\\Tic Tac Toe Game\\Tic Tac Toe Game.csproj",
+        "projectPath": "C:\\Coder-Work\\Tic Tac Toe Game\\TicTacToeGame\\Tic Tac Toe Game.csproj",
         "packagesPath": "C:\\Users\\elmer\\.nuget\\packages\\",
-        "outputPath": "C:\\Coder-Work\\Tic Tac Toe Game\\obj\\",
+        "outputPath": "C:\\Coder-Work\\Tic Tac Toe Game\\TicTacToeGame\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\elmer\\AppData\\Roaming\\NuGet\\NuGet.Config",
